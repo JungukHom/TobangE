@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/sara_cancel"
+        android:layout_width="75dp"
+        android:layout_height="135dp"
+        android:onClick="mOnClick"
+        app:srcCompat="@drawable/sara_cancel"
+        android:layout_weight="0.40"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp" />
+
+    <ImageView
+        android:id="@+id/sara_home"
+        android:layout_width="102dp"
+        android:layout_height="135dp"
+        app:srcCompat="@drawable/sara_home"
+        android:layout_weight="0.11"
+        android:layout_marginTop="52dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/sara_return"
+        android:layout_width="100dp"
+        android:layout_height="135dp"
+        app:srcCompat="@drawable/sara_return"
+        android:layout_weight="0.08"
+        android:layout_marginTop="118dp" />
+</RelativeLayout>
