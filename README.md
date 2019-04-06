@@ -4,11 +4,8 @@
 
 </br>
 
-## 개요
+### 컨셉 이미지
 <img src="/Images/00.png" width=253 height=357></img></br>
-```
-컨셉 이미지
-```
 
 </br>
 
