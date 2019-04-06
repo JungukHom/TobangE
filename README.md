@@ -15,6 +15,8 @@
 김사라(아트 및 프로그래밍), 함정욱(프로그래밍)
 ```
 
+</br>
+
 ### 개발 기간
 ```
 1개월
@@ -42,4 +44,6 @@ Java와 안드로이드 스튜디오를 이용하여 2차원 배열을 활용한
 <img src="/Images/03.png" width=199 height=353></img>
 <img src="/Images/04.png" width=199 height=353></img>
 
+
 </br></br>
+
